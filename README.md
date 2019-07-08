@@ -6,7 +6,7 @@ While there are plenty of books and tutorials out there, I've always felt that s
 
 The *Understanding Series* is aimed at filling these blanks. These tutorials are written in a way that my understanding of the topic is complete, making no assumption whatsoever on the reader's prior skills in mathematics or statistics. If a skill is required to completely understand a particular topic, then references to other *Understanding Series* topics will be provided.
 
-I hope you enjoyed these series!
+I hope you enjoy these series!
 
 Cheers
 
