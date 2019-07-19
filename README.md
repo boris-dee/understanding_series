@@ -21,4 +21,4 @@ Boris D.
 ## Statistics
 
 ## Machine Learning
-1. Grah Neural Network (in progress)
+1. [Grah Neural Network (in progress)](https://github.com/boris-dee/understanding_series/blob/master/graph_neural_network/gnn_model.ipynb).
