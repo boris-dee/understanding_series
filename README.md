@@ -13,6 +13,7 @@ Cheers
 Boris D.
 
 ## Linear Algebra
+1. [Prerequisites (in progress)](https://github.com/boris-dee/understanding_series/blob/master/linear_algebra/01.prerequisites.ipynb).
 
 ## Analysis
 
