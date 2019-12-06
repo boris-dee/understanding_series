@@ -14,7 +14,7 @@ Boris D.
 
 ## Linear Algebra
 1. [Prerequisites](https://github.com/boris-dee/understanding_series/blob/master/linear_algebra/01.prerequisites.ipynb).
-2. [Functions (in progress)](https://github.com/boris-dee/understanding_series/blob/master/linear_algebra/02.functions.ipynb).
+2. [Functions](https://github.com/boris-dee/understanding_series/blob/master/linear_algebra/02.functions.ipynb).
 
 ## Analysis
 
