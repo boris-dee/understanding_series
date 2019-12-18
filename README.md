@@ -19,7 +19,7 @@ Boris D.
 ## Analysis
 
 ## Probabilities
-1. [Discrete Random Variables(in progress)](https://github.com/boris-dee/understanding_series/blob/master/probabilities/01.discrete_random_variables.ipynb).
+1. [Discrete Random Variables](https://github.com/boris-dee/understanding_series/blob/master/probabilities/01.discrete_random_variables.ipynb).
 
 ## Statistics
 
