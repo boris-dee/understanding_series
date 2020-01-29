@@ -26,7 +26,6 @@ Boris D.
 
 ## Machine Learning
 
-
 ## TODO List
 1. Combinatorics.
 2. Grah Neural Network
