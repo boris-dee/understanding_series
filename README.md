@@ -20,6 +20,7 @@ Boris D.
 
 ## Probabilities
 1. [Discrete Random Variables](https://github.com/boris-dee/understanding_series/blob/master/probabilities/01.discrete_random_variables.ipynb).
+2. [Discrete Probability Distributions](https://github.com/boris-dee/understanding_series/blob/master/probabilities/02.discrete_probability_distributions.ipynb).
 
 ## Statistics
 
