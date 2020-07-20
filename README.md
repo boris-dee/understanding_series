@@ -17,7 +17,6 @@ Boris D.
 2. [Functions](https://github.com/boris-dee/understanding_series/blob/master/linear_algebra/02.functions.ipynb).
 
 ## Analysis
-1. [Integration](https://github.com/boris-dee/understanding_series/blob/master/analysis/01.integration.ipynb).
 
 ## Probabilities
 1. [Discrete Random Variables](https://github.com/boris-dee/understanding_series/blob/master/probabilities/01.discrete_random_variables.ipynb).
@@ -26,8 +25,3 @@ Boris D.
 ## Statistics
 
 ## Machine Learning
-
-## TODO List
-1. Combinatorics.
-2. Grah Neural Network
-3. Taylor series
